@@ -25,8 +25,9 @@ MD_DumpCLI.exe -f "N:\Test_data\eml\test_sample_message.eml" -c True
 Compiling is simple. You will need Visual Studio 2015 Community (free) or better and the .Net 4.6 framework. The solution should auto download the following nuget packages below and compile the project.
 
 **Dependencies**
-Apache Tika: https://tika.apache.org/
-IKVM: http://www.ikvm.net/
-TikaOnDotNET: https://kevm.github.io/tikaondotnet/
+    Apache Tika: https://tika.apache.org/
+    IKVM: http://www.ikvm.net/
+    TikaOnDotNET: https://kevm.github.io/tikaondotnet/
+
 
 Enjoy!
